@@ -1,0 +1,2 @@
+# scalebot
+random scale generator
